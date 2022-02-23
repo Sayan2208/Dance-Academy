@@ -1,0 +1,8 @@
+The name of the client is xyz.
+The age of the client is 00.
+The phone number of the client is 1234567890.
+The email id of the client is xyz@gmail.com.
+The address of the client is xyz.
+The state of residence is xyz.
+The client is from xyz.
+Pincode is 123456.

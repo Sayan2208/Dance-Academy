@@ -1,0 +1,21 @@
+{
+  "name": "fusion-dance-academy",
+  "version": "1.0.0",
+  "description": "This is a Dance Academy Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dance",
+    "Academy",
+    "Fusion",
+    "Western"
+  ],
+  "author": "Sayan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  }
+}

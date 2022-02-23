@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url('/static/img/contacts/contact3.png') no-repeat center center/cover;
+}
+
+h1{
+    text-align: center;
+    margin-top: 23px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.container{
+    min-height: 85vh;
+}
+
+.myForm{
+    display: flex;
+    flex-direction: column;
+    margin: 13px 0px;
+    align-items: center;
+}
+
+.myInput{
+    width: 45%;
+    padding: 6px;
+    margin: 6px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+}
+
+.btn{
+    
+    padding: 4px 8px;
+    margin: 10px;
+    font-size: 19px;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: black;
+    background-color: #8c8c8c;
+    cursor: pointer;
+}
